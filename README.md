@@ -205,7 +205,6 @@ $mail->Port = 587;
 |------|---------|
 | **Home** | ![Home Page](SnapShot/Home.png) |
 | **Blood Tips** | ![Blood Tips](SnapShot/BloodTips.png) |
-| **Contribute** | ![Contribute](SnapShot/Contribute.png) |
 | **About Us** | ![About Us](SnapShot/AboutUS.png) |
 
 ## 🚨 Troubleshooting
@@ -238,12 +237,6 @@ $mail->Port = 587;
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Original Author
-
-**Smit Shah**
-- Email: smitshah22050602@gmail.com
-- Phone: +91 8849364239
 
 ## 🙏 Acknowledgments
 
